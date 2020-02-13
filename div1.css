@@ -1,0 +1,19 @@
+body{
+	width: 960px;
+	margin: 0 auto;
+	font-family: Arial,sans-serif;
+	font-size: 16px;
+}
+div{
+	width: 150px;
+	height: 150px;
+}
+#so1{
+	background-color: #333;
+}
+#so2{
+	background-color: #444;
+	margin: 32px 0 0 0;
+	border: 5px outset red;
+	padding: 45px;
+}
