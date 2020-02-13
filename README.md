@@ -1,6 +1,6 @@
 # Kitt_blog.github.io
 # my name is ly hoang thuan
-<!DOCTYPE>
+#<!DOCTYPE>
 <html lang="vi">
 <head>
 	<title>KITT.COM</title>
